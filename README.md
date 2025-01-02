@@ -1,2 +1,2 @@
-# srvkup
-srvkup - Server Keep Up, Keep It Working!
+# SRVKUP
+SRVKUP - Server Keep Up, Keep It Working!
